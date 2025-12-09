@@ -1,0 +1,49 @@
+/* GOOGLE FONTS IMPORT (CHANGE HERE) */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap');
+
+/* COLOR PALETTE (CHANGE HERE) */
+:root {
+  --bg: #f8fafc;
+  --primary: #0f172a;
+  --accent: #0ea5a4;
+  --accent-2: #f59e0b;
+  --muted: #6b7280;
+  --radius: 12px;
+}
+
+body {
+  background: var(--bg);
+  font-family: 'Inter', sans-serif;
+  color: var(--primary);
+}
+
+.app-card {
+  border-radius: var(--radius);
+  background: white;
+}
+
+.app-title {
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.todo-list .list-group-item {
+  margin-bottom: 8px;
+  border-radius: 10px;
+  background: #fbfdff;
+}
+
+.todo-text {
+  font-size: 1rem;
+}
+
+.todo-text.done {
+  text-decoration: line-through;
+  opacity: 0.5;
+}
+
+/* Add button gradient */
+.btn-success {
+  background: linear-gradient(90deg, var(--accent), var(--accent-2));
+  border: none;
+}

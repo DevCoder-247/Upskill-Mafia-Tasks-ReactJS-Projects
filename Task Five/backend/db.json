@@ -1,0 +1,151 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Aarav Sharma",
+      "age": 20,
+      "course": "Computer Science",
+      "email": "aarav@example.com"
+    },
+    {
+      "id": 2,
+      "name": "Ishita Patel",
+      "age": 21,
+      "course": "Mechanical",
+      "email": "ishita@example.com"
+    },
+    {
+      "id": 3,
+      "name": "Rohan Verma",
+      "age": 22,
+      "course": "Electrical",
+      "email": "rohan@example.com"
+    },
+    {
+      "id": 4,
+      "name": "Sneha Kulkarni",
+      "age": 19,
+      "course": "Civil",
+      "email": "sneha@example.com"
+    },
+    {
+      "id": 5,
+      "name": "Vikram Rao",
+      "age": 23,
+      "course": "Computer Science",
+      "email": "vikram@example.com"
+    },
+    {
+      "id": 6,
+      "name": "Meera Nair",
+      "age": 20,
+      "course": "IT",
+      "email": "meera@example.com"
+    },
+    {
+      "id": 7,
+      "name": "Aditya Singh",
+      "age": 21,
+      "course": "CS",
+      "email": "aditya@example.com"
+    },
+    {
+      "id": 8,
+      "name": "Pooja Desai",
+      "age": 22,
+      "course": "Architecture",
+      "email": "pooja@example.com"
+    },
+    {
+      "id": 9,
+      "name": "Karan Kapoor",
+      "age": 20,
+      "course": "Chemical",
+      "email": "karan@example.com"
+    },
+    {
+      "id": 10,
+      "name": "Nisha Rao",
+      "age": 21,
+      "course": "Biotech",
+      "email": "nisha@example.com"
+    },
+    {
+      "id": 11,
+      "name": "Sahil Mehta",
+      "age": 20,
+      "course": "Computer Science",
+      "email": "sahil@example.com"
+    },
+    {
+      "id": 12,
+      "name": "Ananya Singh",
+      "age": 22,
+      "course": "Mechanical",
+      "email": "ananya@example.com"
+    },
+    {
+      "id": 13,
+      "name": "Ritu Jain",
+      "age": 23,
+      "course": "Electrical",
+      "email": "ritu@example.com"
+    },
+    {
+      "id": 14,
+      "name": "Dev Sharma",
+      "age": 19,
+      "course": "Civil",
+      "email": "dev@example.com"
+    },
+    {
+      "id": 15,
+      "name": "Priya Sinha",
+      "age": 20,
+      "course": "IT",
+      "email": "priya@example.com"
+    },
+    {
+      "id": 16,
+      "name": "Arjun Bhat",
+      "age": 21,
+      "course": "Computer Science",
+      "email": "arjun@example.com"
+    },
+    {
+      "id": 17,
+      "name": "Tara Mukherjee",
+      "age": 22,
+      "course": "Architecture",
+      "email": "tara@example.com"
+    },
+    {
+      "id": 18,
+      "name": "Rakesh Kumar",
+      "age": 23,
+      "course": "Chemical",
+      "email": "rakesh@example.com"
+    },
+    {
+      "id": 19,
+      "name": "Nivedita Das",
+      "age": 20,
+      "course": "Biotech",
+      "email": "nivedita@example.com"
+    },
+    {
+      "id": 20,
+      "name": "Yash Thakur",
+      "age": 21,
+      "course": "CS",
+      "email": "yash@example.com"
+    },
+    {
+      "name": "Kalpreet Veerwal",
+      "age": 26,
+      "course": "Sex Education",
+      "email": "Kalpreet@gmail.com",
+      "id": 21
+    }
+  ]
+}

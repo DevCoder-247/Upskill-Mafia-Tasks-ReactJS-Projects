@@ -1,0 +1,23 @@
+Task 1 : https://github.com/DevCoder-247/ReactJSTaskOne
+Task 2 : https://github.com/DevCoder-247/task-28-b
+Task 3 : 
+
+
+check latest jobs 
+
+https://www.linkedin.com/jobs/search-results/?f_TPR=r3600&keywords=software%20Engineer&origin=SWITCH_SEARCH_VERTICAL
+
+Task 1 : Module 2
+Task 2 : Module 4,5,6
+Task 3 : Module 7
+Task 4 : Module 8
+Task 5 : Module 10
+Task 6 : Project Food App
+
+
+
+This Folder Consists of Submission for the Task Given in Module 2
+
+Final Project Deployed Link
+
+https://scintillating-madeleine-5358c3.netlify.app/

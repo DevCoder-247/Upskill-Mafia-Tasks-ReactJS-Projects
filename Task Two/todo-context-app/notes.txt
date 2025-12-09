@@ -1,0 +1,24 @@
+Problems faced : 
+1 . when i type in search field the releavant todos get filter but if i click enter all todos gets cleared
+Why : This happens because your search bar is inside a <Form> or acting like a form input, so pressing Enter triggers a form submit, which triggers your "Clear All" or resets state.
+Solution : 
+import { Form } from "react-bootstrap";
+import { useTodos } from "../context/TodoContext";
+
+export default function SearchBar() {
+  const { query, setQuery } = useTodos();
+
+  return (
+    <Form
+      className="mb-4"
+      onSubmit={(e) => e.preventDefault()} //  Prevent Enter from wiping todos
+    >
+      <Form.Control
+        type="text"
+        placeholder="Search tasks..."
+        value={query}
+        onChange={(e) => setQuery(e.target.value)}
+      />
+    </Form>
+  );
+}
